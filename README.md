@@ -1,3 +1,8 @@
+#src/gz custom_generic https://raw.githubusercontent.com/Erwingwapo999/Wertools/main/generic
+
+#src/gz custom_arch https://raw.githubusercontent.com/Erwingwapo999/Wertools/main/arm_cortex-a7_neon-vfpv4
+
+
 # Personal OpenWrt OPKG Server
 Install dan upgrade paket aplikasi komunitas modifikasi OpenWrt (seperti: OpenClash, Passwall, ShadowSocksR+ Plus, Wegare STL, Tiny File Manager, Xderm Mini, v2rayA, Modeminfo, dll) dengan mudah.
 
